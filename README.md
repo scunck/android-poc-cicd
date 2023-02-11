@@ -1,6 +1,8 @@
 intro_android_demo
 ==================
 
+[![Build status](https://build.appcenter.ms/v0.1/apps/bd6c10a2-2304-49f1-9498-950210827c74/branches/main/badge)](https://appcenter.ms)
+
 Demo of app exercises for Intro to Android App Development
 
 <img src="http://i.imgur.com/DzkMzcy.png" width="250" />&nbsp;
